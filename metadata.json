@@ -1,0 +1,6 @@
+{
+  "name": "Tres Mentes Ajedrez",
+  "description": "Plataforma de análisis de Chess.com con motor táctico, estadísticas avanzadas de precisión y coaching interactivo inspirado en Fischer, Carlsen y Kasparov.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
